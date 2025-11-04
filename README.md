@@ -1,3 +1,3 @@
 # NCERT_Computer_Science
 NCERT Computer Science content
-https://github.com/sudheercs/NCERT_Computer_Science/blob/main/python-functions-slides.html
+[Click Here](https://sudheercs.github.io/NCERT_Computer_Science/python-functions-slides.html)
